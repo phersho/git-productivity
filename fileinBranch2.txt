@@ -1,3 +1,11 @@
-This is another file in the branch. 
+Conflictos This is another file in the branch. 
 
+Added to see how different commits can be rebased interactively in Git. 
+
+
+Added to see how different commits can be rebased interactively in Git. 
+Added to see how different commits can be rebased interactively in Git. 
+Added to see how different commits can be rebased interactively in Git. 
+Added to see how different commits can be rebased interactively in Git. 
+Added to see how different commits can be rebased interactively in Git. 
 Added to see how different commits can be rebased interactively in Git. 
