@@ -1,4 +1,4 @@
-This is another file. We'll call it file in branch.
+This is another file. We'll call it file in branch. We are in master.
 
 
 Test1 test2.
@@ -12,3 +12,6 @@ Bla bla bla.
 
 
 bla cla Bla 
+
+
+MASTER
