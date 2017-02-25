@@ -1,5 +1,14 @@
 This is another file. We'll call it file in branch.
 
-Lorem ipsum branch in file. 
 
 Test1 test2.
+
+
+Secure conflict in file. 
+
+
+Bla bla bla.
+
+
+
+bla cla Bla 
