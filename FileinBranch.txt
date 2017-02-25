@@ -5,7 +5,7 @@ Lorem --conflicto - - - - branch in file.
 
 
 
-Test1 test2.
+Test1 test2. Another confflict in this branch
 
 
 Another conflict
